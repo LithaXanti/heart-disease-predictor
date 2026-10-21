@@ -1,0 +1,20 @@
+{
+  "best_model": "Random Forest",
+  "roc_auc": 0.8929937828790052,
+  "feature_columns": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalch",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "trained_on_rows": 736
+}
